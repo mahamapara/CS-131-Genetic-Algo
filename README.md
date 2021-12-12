@@ -12,6 +12,8 @@ Define the problem as a genetic algorithm.
 Provide the genome for the problem.
 Define all the fringe operations.
 Cull your population by 50% at every generation.
+
+
 -----------------------------------------------------------------------------------------
 Running the file: python A3_Mapara.py
 
